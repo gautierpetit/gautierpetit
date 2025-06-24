@@ -50,6 +50,6 @@ Portfolio Optimization, Risk Modeling, Machine Learning, GARCH/EGARCH, Copulas, 
 
 📍 Based in Switzerland  
 🔗 [LinkedIn – Gautier Petit](https://www.linkedin.com/in/gautierpetitch/)  
-🤝 Open to collaborations and quant/dev opportunities
+🤝 Open to quant/dev opportunities
 
 ---
