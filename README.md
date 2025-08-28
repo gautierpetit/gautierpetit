@@ -1,55 +1,61 @@
 # 👋 Hi, I'm Gautier Petit
 
-🎯 Aspiring Quant Developer with a strong foundation in systematic investing, portfolio optimization, and risk modeling.  
-🎓 MSc in Finance – HEC Lausanne (First-Class Honours Equivalent)  
-🔬 Focused on bridging finance and data science through applied research and high-performance code.
+🎯 Quant-focused MSc Finance (HEC Lausanne) with expertise in systematic strategies, portfolio optimization, and risk modeling.<br/>
+🔬 I build deployable research pipelines that combine finance and machine learning — from clean point-in-time data, through labeling and modeling, to calibrated probability-aware execution.<br/>
+🚀 My goal: contribute to hedge fund–style systematic research and portfolio management.<br/>
 
 ---
 
-## 🧠 Current Interests
+## 🧠 Current Focus
 
-- 🧪 Developing a **Meta-Labeling Alpha Filter** for trade signal enhancement
-- 🤖 Learning **Machine Learning & Deep Learning**:  
-  - Algorithms: Decision Trees, Random Forests, Gradient Boosting  
-  - Libraries: TensorFlow, Scikit-learn, Keras  
-  - Topics: Feature engineering, ANN architectures, time series ML
-- 💻 Strengthening **C++** for performance-critical financial applications
+- 📈 Meta-Labeling Alpha Filter – AI-driven trade signal refinement for systematic equity strategies
+- 🧮 Systematic Portfolio Optimization – robust optimization with tail-aware risk measures (CVaR, CDaR, Omega)
+- 🤖 Expanding skills in ML/AI for time-series finance (LightGBM, MLPs, calibration, explainability)
+- ⚙️ Strengthening C++ for performance-critical quant research environments
 
 ---
 
 ## 📌 Featured Project
 
+### [Meta-Labeling Alpha Filter](https://github.com/gautierpetit/meta-labeling-alpha-filter)
+
+>A deployable ML framework that learns when not to trade.
+- End-to-end pipeline: point-in-time data → triple-barrier labeling → feature engineering → calibrated ML models (LightGBM, MLP).
+- Probability-aware trade gating & sizing with volatility targeting, leverage caps, and turnover controls.
+- Results (OOS, net of costs): Sharpe 1.09 in 50/50 blend with SPY; 65.8% win rate across 3,600+ trades.
+- 📄 [Full case report included](https://github.com/gautierpetit/meta-labeling-alpha-filter/blob/main/docs/Meta-Labeling%20Alpha%20Filter%20-%20Case%20Report.pdf) | 🐍 Python code | 🔍 Reproducible runs with config snapshots
+
 ### [Hedge Fund Portfolio Optimization: A Semi-Parametric Approach](https://github.com/gautierpetit/hedge-fund-portfolio-optimization)
 
-> A hybrid optimization framework combining parametric and non-parametric techniques  
-> for robust hedge fund portfolio construction across 30+ years of HFR strategy index data.   
-> 📄 [Thesis PDF included] | 🐍 Code in Python | 📊 Full documentation & results
+>MSc thesis project on hedge fund allocation.
+- Hybrid optimization framework integrating AR-EGARCH volatility, EVT for tails, Student-t copulas for dependencies.
+- Objectives: CVaR, CDaR, Omega ratio; non-linear constraints (turnover, correlations).
+- Tested on 30+ years of HFR data; outperformed traditional benchmarks in risk-adjusted returns.
+- 📄 [Thesis PDF included](https://github.com/gautierpetit/hedge-fund-portfolio-optimization/blob/main/thesis.pdf) | 🐍 Python code | 📊 Full documentation & results
 
 ---
 
 ## ⚙️ Skills
 
-**Languages**  
-Python, SQL, Excel VBA, C++ (Learning)
+**Programming & Tools**  
+Python (Advanced), Git & GitHub, Linux (Dev use), SQL, Bloomberg Terminal, C++ (progressing)
 
-**Libraries & Tools**  
-NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, ARCH, Matplotlib, Seaborn, Git, Power BI, Bloomberg Terminal
+**Quant & Risk**  
+Portfolio Optimization, Risk Management, Backtesting, Constrained Optimization, Tail Risk Modeling (AR/GARCH, EVT, Copulas)
 
-**Finance & Analytics**  
-Portfolio Optimization, Risk Modeling, Machine Learning, GARCH/EGARCH, Copulas, Extreme Value Theory, Statistical Testing, Backtesting, Factor Models
+**Machine Learning**  
+Supervised Learning (Classification & Regression), Ensemble Methods (LightGBM, MLP), Bayesian Optimization, Probability Calibration (vector-scaled softmax, blending), Model Validation & Explainability (SHAP)
 
-**Quant Techniques**  
-- Parametric & Non-parametric Modeling  
-- Tail Risk Metrics (CVaR, CDaR, Omega)  
-- Optimization (SLSQP, constrained nonlinear)  
-- Out-of-sample Rolling Evaluation
+**Data Handling**  
+Point-in-Time Data Construction, Feature Engineering, Time-Series Analysis, Data Wrangling & Visualization
 
 ---
 
 ## 📫 Contact
 
-📍 Based in Switzerland  
-🔗 [LinkedIn – Gautier Petit](https://www.linkedin.com/in/gautierpetitch/)  
-🤝 Open to quant/dev opportunities
+📍 Based in Switzerland<br/>
+🔗 [LinkedIn – Gautier Petit](https://www.linkedin.com/in/gautierpetitch/)<br/>
+💻 [GitHub – gautierpetit](https://github.com/gautierpetit/)<br/>
+🤝 Open to quant research / systematic strategy roles<br/>
 
----
+
