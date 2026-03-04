@@ -8,13 +8,13 @@
 
 ## 🧠 Current Focus
 
-- 📊 Event-Driven Market Microstructure Research (C++ + Python)
+- 📊 Event-Driven Market Microstructure Research (C++ + Python)<br/>
 Designing an event-based limit order book feature engine using NASDAQ ITCH-derived data to explore short-horizon price dynamics under realistic research constraints.
-- 📈 Meta-Labeling & Signal Filtering
+- 📈 Meta-Labeling & Signal Filtering<br/>
 Improving trade selection and probability calibration for systematic equity strategies.
-- 🧮 Tail-Aware Portfolio Optimization
+- 🧮 Tail-Aware Portfolio Optimization<br/>
 Robust allocation frameworks using CVaR, CDaR, Omega, and semi-parametric risk modeling.
-- ⚙️ Performance-Critical Quant Infrastructure
+- ⚙️ Performance-Critical Quant Infrastructure<br/>
 Strengthening C++ for event-driven systems, stateful processing, and research-to-production alignment.
 
 ---
@@ -41,16 +41,16 @@ Strengthening C++ for event-driven systems, stateful processing, and research-to
 
 ## ⚙️ Skills
 
-**Programming & Systems**
+**Programming & Systems**<br/>
 Python (Advanced), C++ (event-driven systems, developing), Git & GitHub, Linux, SQL, Docker, Bloomberg Terminal
 
-**Quantitative Research**
+**Quantitative Research**<br/>
 Market Microstructure (limit order books, OFI, queue and depth imbalance), Portfolio Optimization, Risk Management, Backtesting, Constrained Optimization, Tail Risk Modeling (AR/GARCH, EVT, Copulas)
 
-**Machine Learning**
+**Machine Learning**<br/>
 Supervised Learning (Classification & Regression), LightGBM, MLPs, Probability Calibration, Model Validation, Explainability (SHAP), Time-Series Labeling (triple-barrier, event-horizon)
 
-**Data Engineering**
+**Data Engineering**<br/>
 Event-Based Data Processing, Point-in-Time Construction, Feature Engineering, Time-Series Analysis, Reproducible Research Pipelines
 
 ---
